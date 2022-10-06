@@ -1,7 +1,7 @@
 ## Hi 👋 I am Syauqi!
 <p align="center">
-<img width="44%" src="https://github-readme-stats.vercel.app/api?username=syauqqii&show_icons=true&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=ffffff&icon_color=ff3860&title_color=00ffff&hide_border=true"/>
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syauqqii&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=ffffff&icon_color=ff3860&title_color=00ffff&hide_border=true)"/>       
+<img width="44%" src="https://github-readme-stats.vercel.app/api?username=syauqqii&show_icons=true&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=ffffff&icon_color=#427ef5&title_color=00ffff&hide_border=true"/>
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syauqqii&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=ffffff&icon_color=#427ef5&title_color=00ffff&hide_border=true"/>       
 </p>
 <details open>
 
