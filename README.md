@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+  Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
 </h1>
 ### :rocket: GitHub Stats :
 <p align="center">
