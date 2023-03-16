@@ -1,7 +1,7 @@
 <h1 align="center">
-  Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
+  Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 </h1>
-### :rocket: GitHub Stats :
+:rocket: GitHub Stats :
 <p align="center">
 <img width="44%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=syauqqii&show_icons=true&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=ffffff&title_color=00ffff&hide_border=true">
 <img width="44%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syauqqii&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=ffffff&title_color=00ffff&hide_border=true">
