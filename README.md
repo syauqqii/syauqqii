@@ -7,9 +7,8 @@
 <p align="center">
 <img width="44%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=syauqqii&show_icons=true&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=ffffff&title_color=00ffff&hide_border=true">
 <img width="44%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syauqqii&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=ffffff&title_color=00ffff&hide_border=true">
-<br>
+<br><hr>
 <p align="center">
-<hr>
 <img width="44%" src="https://streak-stats.demolab.com/?user=syauqqii&theme=transparent&hide_border=true&border_radius=10">
 
 
