@@ -10,7 +10,7 @@
 <img width="44%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syauqqii&layout=compact&langs_count=7&bg_color=0D1117&text_color=ffffff&title_color=00ffff&hide_border=true">
 <h1> </h1>
 <p align="center">
-<img width="44%" src="https://streak-stats.demolab.com?user=syauqqii&bg_color=0D1117&theme=neon&hide_border=true">
+<img width="44%" src="https://streak-stats.demolab.com?user=syauqqii&theme=neon&bg_color=0D1117&hide_border=true">
 <!--   <img width="44%" src="https://streak-stats.demolab.com/?user=syauqqii&theme=transparent&hide_border=true"> -->
 
 
