@@ -10,12 +10,11 @@
 <img width="44%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syauqqii&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=ffffff&title_color=00ffff&hide_border=true">
 <h1> </h1>
 <p align="center">
-<img width="44%" src="https://streak-stats.demolab.com/?user=syauqqii&theme=transparent&hide_border=true&border_radius=10">
+<img width="44%" src="https://streak-stats.demolab.com/?user=syauqqii&theme=transparent&hide_border=true">
 
 
 <!-- ### Support Me
 <a href="https://saweria.co/" target="_blank">SAWERIA.CO</a> -->
-<h1> </h1>
   
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>
