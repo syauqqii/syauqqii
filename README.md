@@ -13,7 +13,6 @@
 <h1> </h1>
 <p align="center">
 <img width="75%" src="https://streak-stats.demolab.com/?user=syauqqii&theme=transparent&hide_border=true&currStreakLabel=00B2EE&sideLabels=00B2EE&fire=6aa84f&currStreakNum=6aa84f&sideNums=6aa84f">
-<!--   <img width="44%" src="https://streak-stats.demolab.com/?user=syauqqii&theme=transparent&hide_border=true&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff"> -->
 
 
 <!-- ### Support Me
