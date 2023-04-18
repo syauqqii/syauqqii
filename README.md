@@ -27,7 +27,6 @@
 <summary>🤝 <b>To connect with me</b></summary>
 <p align = "center">
 
-<!-- FACEBOOK LOGO -->
+<!-- FACEBOOK & INSTAGRAM LOGO -->
 [<img src = "https://img.shields.io/badge/facebook-%23E4405F.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=blue">](https://www.facebook.com/dimas.s.s.1000)
-<!-- INSTAGRAM LOGO -->
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/syaauqqii/)
