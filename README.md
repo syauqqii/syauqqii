@@ -3,7 +3,7 @@
   Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 </h1>
 
-[![Header](https://github.com/syauqqii/syauqqii/blob/main/.png "Header")](https://github.com/syauqqii)
+[![Header](https://github.com/syauqqii/syauqqii/blob/main/gochiusa-istheorderarabbit.gif "Header")](https://github.com/syauqqii)
 
 <!-- VISITOR -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=syauqqii"/>
