@@ -36,11 +36,12 @@
 <a href="https://saweria.co/" target="_blank">SAWERIA.CO</a> -->
 
 <!-- DROPDOWN SOCIAL MEDIA -->
-<details open>
-<!-- ADD INFROMATION -->
-<summary>🤝 <b>To connect with me</b></summary>
-<p align = "center">
+<details>
+  <!-- ADD INFROMATION -->
+  <summary>🤝 <b>To connect with me</b></summary>
+  <p align = "center">
 
-<!-- FACEBOOK & INSTAGRAM LOGO -->
-[<img src = "https://img.shields.io/badge/facebook-%23E4405F.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=blue">](https://www.facebook.com/dimas.s.s.1000)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/syaauqqii/)
+  <!-- FACEBOOK & INSTAGRAM LOGO -->
+  [<img src = "https://img.shields.io/badge/facebook-%23E4405F.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=blue">](https://www.facebook.com/dimas.s.s.1000)
+  [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/syaauqqii/)
+</details>
