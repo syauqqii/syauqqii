@@ -9,7 +9,7 @@
 
 <div align="center">
   <img
-    src="output-onlinejpgtoolsddd.png" style="width: 2249px; height: 750px;"/>
+    src="output-onlinejpgtoolsddd.png"/>
   <img height="140px" 
     src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2C42F7FF&center=true&vCenter=true&width=435&lines=I%27m+Dimas+Syauqi"
     alt="Typing SVG" style="filter: drop-shadow(2px 2px 1px #2C42F7FF);" />
