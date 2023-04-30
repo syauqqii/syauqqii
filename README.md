@@ -5,9 +5,9 @@
 
 <!-- ![](https://cardivo.vercel.app/api?name=Dimas%20Syauqi&description=Junior%20Programmer,%20Newbie%20Gamer&image=https://avatars.githubusercontent.com/u/57295427?v=4&backgroundColor=%23ecf0f1&pattern=topography&colorPattern=%23eaeaea) -->
 
-<!-- ![](https://cardivo.vercel.app/api?name=I%27m%20Dimas%20Syauqi&description=Junior%20Programmer,%20Newbie%20Gamer&image=https://github.com/syauqqii/syauqqii/blob/main/nahida.jpg?raw=true&backgroundColor=%23ecf0f1&pattern=topography&colorPattern=%23eaeaea) -->
+![](https://cardivo.vercel.app/api?name=I%27m%20Dimas%20Syauqi&description=Junior%20Programmer,%20Newbie%20Gamer&image=https://github.com/syauqqii/syauqqii/blob/main/nahida.jpg?raw=true&backgroundColor=%23ecf0f1&pattern=topography&colorPattern=%23eaeaea)
 
-<div align="center">
+<!-- <div align="center">
   <img
     src="final.png"/>
   <img height="140px" 
@@ -15,7 +15,7 @@
     alt="Typing SVG" style="filter: drop-shadow(2px 2px 1px #2C42F7FF);" />
   <br>
   <a href="https://yoshi.moe" style="font-family: 'Product Sans', sans-serif; font-size: medium;"></a>
-</div>
+</div> -->
 
 <!-- VISITOR -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=syauqqii"/>
