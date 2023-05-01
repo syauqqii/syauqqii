@@ -19,7 +19,7 @@
 
 <!-- VISITOR -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=syauqqii"/>
-<details open>
+<details>
   <!-- ADD INFROMATION -->
   <summary>🚀 <b>GitHub Stats :</b></summary>
 
