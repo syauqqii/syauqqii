@@ -5,7 +5,7 @@
 
 <!-- ![](https://cardivo.vercel.app/api?name=Dimas%20Syauqi&description=Junior%20Programmer,%20Newbie%20Gamer&image=https://avatars.githubusercontent.com/u/57295427?v=4&backgroundColor=%23ecf0f1&pattern=topography&colorPattern=%23eaeaea) -->
 
-![](https://cardivo.vercel.app/api?name=I%27m%20Dimas%20Syauqi&description=Deadliner%20and%20Junior%20Programmer&image=https://github.com/syauqqii/syauqqii/blob/main/nahida.jpg?raw=true&backgroundColor=%23ecf0f1&pattern=topography&colorPattern=%23eaeaea)
+![](https://cardivo.vercel.app/api?name=I%27m%20Dimas%20Syauqi&description=Deadliner,%20Gamer,%20and%20Junior%20Programmer&image=https://github.com/syauqqii/syauqqii/blob/main/nahida.jpg?raw=true&backgroundColor=%23ecf0f1&pattern=topography&colorPattern=%23eaeaea)
 
 <!-- <div align="center">
   <img
