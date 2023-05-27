@@ -18,7 +18,8 @@
 </div> -->
 
 <!-- VISITOR -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=syauqqii"/>
+<!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=syauqqii"/> -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=syauqqii)
 <details>
   <!-- ADD INFROMATION -->
   <summary>🚀 <b>GitHub Stats :</b></summary>
