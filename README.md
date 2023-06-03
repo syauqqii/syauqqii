@@ -39,7 +39,7 @@
 <a href="https://saweria.co/" target="_blank">SAWERIA.CO</a> -->
 
 <!-- DROPDOWN SOCIAL MEDIA -->
-<details>
+<details open>
   <!-- ADD INFROMATION -->
   <summary>🤝 <b>To connect with me</b></summary>
   <p align = "center">
