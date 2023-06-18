@@ -7,7 +7,7 @@
 <!-- 
 ![](https://cardivo.vercel.app/api?name=I%27m%20Dimas%20Syauqi&description=Deadliner,%20Gamer,%20and%20Junior%20Programmer.&image=https://github.com/syauqqii/syauqqii/blob/main/nahida.jpg?raw=true&backgroundColor=%23ecf0f1&pattern=topography&colorPattern=%23eaeaea) -->
 
-![](https://cardivo.vercel.app/api?name=Dimas%20Syauqi&description=Suka%20anime,%20kalau%20suka%20kamu%20ga%20mungkin.&image=https://avatars.githubusercontent.com/u/57295427?v=4&fontColor=%2300B2EE)
+![](https://cardivo.vercel.app/api?name=Dimas%20Syauqi&description=Kualitas%20kode%20tidak%20terlihat%20oleh%20mata,%20tetapi%20dirasakan%20oleh%20pengguna.&image=https://avatars.githubusercontent.com/u/57295427?v=4&fontColor=%2300B2EE)
 
 
 <!-- <div align="center">
