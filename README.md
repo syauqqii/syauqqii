@@ -6,9 +6,9 @@
 <!-- ![](https://cardivo.vercel.app/api?name=Dimas%20Syauqi&description=Junior%20Programmer,%20Newbie%20Gamer&image=https://avatars.githubusercontent.com/u/57295427?v=4&backgroundColor=%23ecf0f1&pattern=topography&colorPattern=%23eaeaea) -->
 
 <!-- 
-![](https://cardivo.vercel.app/api?name=I%27m%20Dimas%20Syauqi&description=Deadliner,%20Gamer,%20and%20Junior%20Programmer.&image=https://github.com/syauqqii/syauqqii/blob/main/nahida.jpg?raw=true&backgroundColor=%23ecf0f1&pattern=topography&colorPattern=%23eaeaea) -->
+![](https://cardivo.vercel.app/api?name=I%27m%20Dimas%20Syauqi&description=Deadliner,%20Gamer,%20and%20Junior%20Programmer.&image=https://github.com/syauqqii/syauqqii/blob/main/nahida.jpg?raw=true&backgroundColor=%23ecf0f1&pattern=topography&colorPattern=%23eaeaea)
 
-![](https://cardivo.vercel.app/api?name=Dimas%20Syauqi&description=Kualitas%20kode%20tidak%20terlihat%20oleh%20mata,%20tetapi%20dirasakan%20oleh%20pengguna.&image=https://avatars.githubusercontent.com/u/57295427?v=4&backgroundColor=%23ecf0f1&pattern=topography&colorPattern=%23eaeaea)
+![](https://cardivo.vercel.app/api?name=Dimas%20Syauqi&description=Kualitas%20kode%20tidak%20terlihat%20oleh%20mata,%20tetapi%20dirasakan%20oleh%20pengguna.&image=https://avatars.githubusercontent.com/u/57295427?v=4&backgroundColor=%23ecf0f1&pattern=topography&colorPattern=%23eaeaea)  -->
 
 <!-- https://cardivo.vercel.app/api?name=Dimas%20Syauqi&description=Ketika%20Anda%20berpikir%20Anda%20telah%20menulis%20kode%20yang%20cerdas,%20ingatlah%20bahwa%20ada%20seseorang%20di%20luar%20sana%20yang%20lebih%20pintar%20dan%20akan%20menemukan%20kesalahan%20di%20dalamnya.&image=https://avatars.githubusercontent.com/u/57295427?v=4&backgroundColor=%23ecf0f1&pattern=topography&colorPattern=%23eaeaea -->
 
