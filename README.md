@@ -18,7 +18,7 @@
 <!-- VISITOR BADGE -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=syauqqii)
 
-```curl https://raw.githubusercontent.com/syauqqii/py/main/i```
+- ```curl https://raw.githubusercontent.com/syauqqii/py/main/i```
 
 <details>
   <!-- ADD INFROMATION -->
