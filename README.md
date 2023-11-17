@@ -21,7 +21,7 @@
 <!-- ADD Curl biar terlihat keren -->
 ```curl https://raw.githubusercontent.com/syauqqii/py/main/i```
 
-<details>
+<details open>
   <!-- ADD INFROMATION -->
   <summary>🚀 <b>GitHub Stats :</b></summary>
 
