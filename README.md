@@ -19,7 +19,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=syauqqii)
 
 <!-- ADD Curl biar terlihat keren -->
-```curl https://raw.githubusercontent.com/syauqqii/py/main/i```
+```curl -L bit.ly/syaauqqii```
 
 <details open>
   <!-- ADD INFROMATION -->
