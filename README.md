@@ -9,9 +9,9 @@
 <!-- ADD Curl supaya terlihat keren -->
 <details>
   <summary>Try :</summary>
-  ```bash
-  curl -L bit.ly/syaauqqii
-  ```
+```
+curl -L bit.ly/syaauqqii
+```
 </details>
 
 <details open>
