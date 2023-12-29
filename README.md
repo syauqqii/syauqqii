@@ -7,7 +7,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=syauqqii)
 
 <!-- ADD Curl supaya terlihat keren -->
-```python
+```python3
 curl -L bit.ly/syaauqqii
 ```
 
