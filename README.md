@@ -6,11 +6,13 @@
 <!-- VISITOR BADGE -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=syauqqii)
 
-<!-- ADD Curl biar terlihat keren -->
-Try :
-```bash
-curl -L bit.ly/syaauqqii
-```
+<!-- ADD Curl supaya terlihat keren -->
+<details>
+  <summary>Try :</summary>
+  ```bash
+  curl -L bit.ly/syaauqqii
+  ```
+</details>
 
 <details open>
   <!-- ADD INFROMATION -->
