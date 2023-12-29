@@ -7,7 +7,10 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=syauqqii)
 
 <!-- ADD Curl biar terlihat keren -->
-Try : ```curl -L bit.ly/syaauqqii```
+Try :
+```bash
+curl -L bit.ly/syaauqqii
+```
 
 <details open>
   <!-- ADD INFROMATION -->
